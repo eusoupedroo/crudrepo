@@ -1,0 +1,19 @@
+.form-container {
+    max-width: 370px;
+    padding: 1rem;
+}
+
+
+.phpResponse {
+    color: #007ce9;
+    font-weight: 500;
+}
+
+.errorMessage {
+    color: #e96900;
+    font-weight: 500;
+}
+
+
+a { color: white; }
+a:hover { color: white; text-decoration: none;}
